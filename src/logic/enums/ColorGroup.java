@@ -1,4 +1,4 @@
-package logic;
+package logic.enums;
 
 /**
  * Перечисление возможных цветовых групп

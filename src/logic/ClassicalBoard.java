@@ -1,5 +1,7 @@
 package logic;
 
+import logic.enums.ClassicField;
+
 /**
  *  ласс €вл€етс€ хранилищем полей стандартной монополии (без учЄта переменных конкретной партии)
  * Created by user1 on 18.10.2015.
