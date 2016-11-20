@@ -6,7 +6,7 @@ import logic.enums.ClassicField;
 import logic.enums.JailDecision;
 
 /**
- * Интерфейс определяет обязательные действия, которые должен предпринимать любой игрок в игровых ситуациях
+ * Данный абстрактный класс определяет обязательные действия, которые должен предпринимать любой игрок в игровых ситуациях
  * Created by akozhevnikov on 18.10.2015.
  */
 public abstract class PlayerStrategy {
